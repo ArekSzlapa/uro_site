@@ -1,7 +1,7 @@
 function SecondClue({setDispaly, setSecondClue}) {
         function validate2() {
         const clueText = document.querySelector('.firstClue')
-            if (clueText.value === "1") {
+            if (clueText.value.toUpperCase() === "kukluxklan".toUpperCase()) {
                 setDispaly(false)
                 setSecondClue(true)
         }
