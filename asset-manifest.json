@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/uro_site/static/css/main.86f086c8.css",
+    "main.js": "/uro_site/static/js/main.0f358cec.js",
+    "static/media/Jigsaw.jpg": "/uro_site/static/media/Jigsaw.bfae3bad8409e67142b1.jpg",
+    "index.html": "/uro_site/index.html",
+    "main.86f086c8.css.map": "/uro_site/static/css/main.86f086c8.css.map",
+    "main.0f358cec.js.map": "/uro_site/static/js/main.0f358cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f086c8.css",
+    "static/js/main.0f358cec.js"
+  ]
+}
