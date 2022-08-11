@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/uro_site/static/css/main.2aa300d6.css",
-    "main.js": "/uro_site/static/js/main.9a7be371.js",
+    "main.js": "/uro_site/static/js/main.81a5066f.js",
     "static/media/Jigsaw.jpg": "/uro_site/static/media/Jigsaw.bfae3bad8409e67142b1.jpg",
     "static/media/song.mp3": "/uro_site/static/media/song.97413654dcdc44e69dfb.mp3",
     "static/media/evil-laugh-sound-effect.mp3": "/uro_site/static/media/evil-laugh-sound-effect.84f05e7d1b6a9c9fac43.mp3",
@@ -9,10 +9,10 @@
     "static/media/Don't be scared.mp3": "/uro_site/static/media/Don't be scared.cb6e2f0f9a617544b52b.mp3",
     "index.html": "/uro_site/index.html",
     "main.2aa300d6.css.map": "/uro_site/static/css/main.2aa300d6.css.map",
-    "main.9a7be371.js.map": "/uro_site/static/js/main.9a7be371.js.map"
+    "main.81a5066f.js.map": "/uro_site/static/js/main.81a5066f.js.map"
   },
   "entrypoints": [
     "static/css/main.2aa300d6.css",
-    "static/js/main.9a7be371.js"
+    "static/js/main.81a5066f.js"
   ]
 }
